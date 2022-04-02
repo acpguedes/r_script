@@ -1,0 +1,13 @@
+name: r_scripts
+title: r_scripts
+username:
+account: acpguedes
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5997818
+bundleId: 5757768
+url: https://acpguedes.shinyapps.io/r_scripts/
+when: 1648920956.78765
+lastSyncTime: 1648920956.78766
+asMultiple: FALSE
+asStatic: FALSE
