@@ -59,7 +59,15 @@ ui <- fluidPage(
   fluidRow(
     div(
       p(
-            'Selecione uma area com circulos para ver os detalhes abaixo'
+        'Selecione uma area com circulos para ver os detalhes abaixo.',
+        "Cada circulo representa uma população agrupada com algoritimo de comunidades de Leiden"
+      ),
+      p(
+        "Os grupos com maior visinhança gênica com Cache (eixo Y)",
+        "tendem a ter maior frequência de sinais TM ou SP (eixo X)."
+      ),
+      p(
+        "O código deste dashboard pode ser encontrado em: https://github.com/acpguedes/r_script"
       )
     
   ),
